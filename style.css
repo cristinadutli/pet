@@ -1,0 +1,45 @@
+body {
+    background-image: url("imagenes/golden.jpg");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+h1 {
+    text-align: center;
+   
+}
+
+.principal{
+    color: rgb(162, 210, 30);
+}
+.orange{
+    color: orange;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+   
+
+}
+
+#blue{
+    color: blue;
+}
+.green{
+    color: green;
+}
+
+.red{
+    color: red;
+}
+.red.green{
+    color: violet;
+}
+
+
+
+address {
+    text-align: center;
+    color: aquamarine;
+    border: 2px solid black;
+    margin-top: 300px;
+}
